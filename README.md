@@ -4,3 +4,4 @@ This is a project for the William and Mary Center for Geospatial Analysis. It co
 
 An example of an original 100 by 100 pixel subimage and a processed subimage with bird total in the image name are provided (called 769same.jpeg and 769_5.jpeg). 
 
+See PDF for a detailed guide of how to use code and how code works. 
